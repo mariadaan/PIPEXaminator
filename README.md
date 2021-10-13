@@ -14,3 +14,8 @@ When you want to come up with your own arguments, you can use the single_test.sh
 ```console
 bash single_test.sh file_in cmd1 cmd2 file_out
 ```
+
+
+<p align="left">
+<img src="pipex_tester.gif" alt="animated" />
+</p>
