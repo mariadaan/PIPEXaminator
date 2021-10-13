@@ -7,7 +7,6 @@ PINK="\033[38;2;255;105;180m"
 GREEN="\033[38;2;57;181;74m"
 RED="\033[38;2;222;56;43m"
 RESET="\033[0m"
-EXIT_CODE_TOTAL
 
 # valid arguments
 printf "$PINK"
