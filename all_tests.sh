@@ -192,8 +192,8 @@ else
   printf "$RED"
   echo "${bold}========================================= FAIL =========================================${normal}"
   printf "$RESET"
-  echo "$EXIT_CODE_TOTAL tests have not given the correct output or exitcode. Check terminal output for more
-information on which tests have failed."
+  echo "$EXIT_CODE_TOTAL out of 15 tests have not given the correct output or exitcode. Check terminal output
+for more information on which tests have failed."
 fi
 
 echo -e "\nMake sure to check whether error messages are the same, this tester does not check those.
