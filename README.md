@@ -17,5 +17,5 @@ bash single_test.sh file_in cmd1 cmd2 file_out
 
 
 <p align="left">
-<img src="pipex_test.gif" alt="animated" />
+<img src="pipex_test.gif" alt="animated" width="1000"/>
 </p>
