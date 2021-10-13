@@ -1,4 +1,4 @@
-## W E L C O M E   T O   P I P E X A M I N A T O R !
+## Welcome to the PIPEX EXAMINATOR
 
 ### This is a tester for 42's pipex project. It works for the 2021 version of the subject. 
 
