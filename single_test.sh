@@ -30,7 +30,7 @@ fi
 
 ARG2=$2
 echo ""
-echo "my command:   "./pipex $1 \"$2\" \"$3\" $4
+echo "my command:   "../pipex $1 \"$2\" \"$3\" $4
 echo "real command: <" $1 $2 "|" $3 ">" $RES_REAL
 echo ""
 
