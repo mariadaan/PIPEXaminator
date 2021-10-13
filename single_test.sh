@@ -37,7 +37,7 @@ echo ""
 printf "$BLUE"
 echo "your error message:"
 printf "$RESET"
-./pipex $1 "$2" "$3" $4
+../pipex $1 "$2" "$3" $4
 MY_EXITCODE=$?
 echo ""
 
